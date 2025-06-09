@@ -1,4 +1,4 @@
-# Task 8: Identify and Remove Suspicious Browser Extensions
+# Task 7: Identify and Remove Suspicious Browser Extensions
 
 ## 🔍 Before Cleanup
 | Extension Name            | Status             | Risk Level | Action Taken     |
